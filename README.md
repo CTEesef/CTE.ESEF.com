@@ -1,53 +1,295 @@
-# Cinema and Theater Club
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Theater Club</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
 
-Welcome to the Cinema and Theater Club at ESEFB (école nationale d'éducation et de formation berrechid)! 🎬🎭
+        header {
+            background-color: #ffffff;
+            color: #000000;
+            padding: 10px;
+            text-align: center;
+        }
 
-## Table of Contents
+        nav {
+            background-color: #001c9b;
+            padding: 10px;
+            text-align: center;
+        }
 
-- [About](#about)
-- [Membership](#membership)
-- [Events](#events)
-- [Get Involved](#get-involved)
-- [Contact](#contact)
+        nav a {
+            color: #ffd900;
+            text-decoration: none;
+            margin: 0 15px;
+        }
 
-## About
+        section {
+            padding: 20px;
+        }
 
-The Cinema and Theater Club is a vibrant community at [Your University Name] dedicated to the appreciation of films and the performing arts. Our mission is to create a space for like-minded individuals to come together, share their love for cinema and theater, and explore the rich cultural world of storytelling.
+        h1 {
+            color: #000000;
+            text-align: center;
+        }
+        
 
-## Membership
+        h2 {
+            color: deeppink;
+            text-align: center;
+        }
 
-To become a member of the Cinema and Theater Club, follow these simple steps:
+        h3 {
+            color: crimson;
+        }
 
-1. Attend one of our club meetings or events.
-2. Sign up on our club website or contact our club officers.
-3. Pay the annual membership fee (if applicable).
+        h4 {
+            color: darkgreen;
+        }
 
-Membership benefits include access to exclusive screenings, workshops, and discounted tickets to local theater productions.
+        h5 {
+            color: rgb(0, 0, 0);
+            font-size: larger;
+        }
 
-## Events
 
-Stay tuned for exciting events throughout the academic year, including:
 
-- **Film Screenings:** Regular movie nights featuring a variety of genres and themes.
-- **Theater Workshops:** Interactive sessions to explore the world of stagecraft.
-- **Guest Speaker Series:** Invitations to talks by industry professionals.
+        .event {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-## Get Involved
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-We encourage our members to get involved in the club's activities:
+        label {
+            display: block;
+            margin-bottom: 10px;
+            color: #333;
+        }
 
-- **Propose Movie Screenings:** Suggest your favorite films for future screenings.
-- **Organize Theater Productions:** Showcase your passion for theater by participating in or organizing performances.
-- **Join Committees:** Contribute your skills to committees such as event planning, marketing, or outreach.
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 10px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
 
-For more details on how to get involved, see our [Contribution Guidelines].
+        button {
+            background-color: #333;
+            color: #fff;
+            padding: 5px 15px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo in Header</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 5px;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
+        }
 
-## Contact
+        header {
+            position: relative;
+            height: 120px; /* Adjust the height as needed */
+            background-color: #ffffff; /* Set a background color for the header */
+            color: rgb(0, 0, 0); /* Set text color to contrast with the background */
+            font-family: 'Courier New', Courier, monospace;
+        }
 
-Have questions or want to learn more about the Cinema and Theater Club? Reach out to us:
+        #headerImage {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 250px; /* Adjust the width as needed */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+<body>
 
-- Email: cinema.theaterclub@example.com
-- Follow us on [Instagram](https://www.instagram.com/ctexesef?utm_source=qr&igsh=MzNlNGNkZWQ4Mg%3D%3D) and [Facebook]([link-to-facebook](https://www.facebook.com/profile.php?id=61556547465535&mibextid=kFxxJD)).
+<header>
+    <!-- Image element in the header -->
+    <img id="headerImage" src="C:\Users\ULTRAPC\Downloads\cropped-eseb-1.jpg" alt="Description of the photo">
+    <h1>Theater and Cinema Club</h1>
+</header>
 
-We look forward to sharing the magic of cinema and theater with you!
+<!-- Other content of your website goes here -->
+
+</body>
+</html>
+
+    <nav>
+        <a href="#About Our University">About</a>
+        <a href="#home">Home</a>
+        <a href="#What's a Cinema and theater Club and Why do we need it">Idea</a>
+        <a href="#events">Events</a>
+        <a href="#Inscription">Contact</a>
+    </nav>
+    <section id="About Our University">
+        <h2>Welcome to ESEFB!</h2>
+        <center><img src="C:\Users\ULTRAPC\OneDrive\Bureau\image15.png" 
+            style="width:70%"
+         </center>
+        <h3>à propos de l'ESEFB</h3>
+        <p>Régie par décret N° 2.18.958 (BO N° 6789 du 24 juin 2019), l’Ecole Supérieure d’Education et de Formation de Berrechid (ESEFB) est un établissement qui relève de l’Université Hassan 1er. 
+            </p>
+            <p>La création de l’ESEFB a été opérée dans le sillage de la stratégie de proximité menée par l’université. Elle intervient également suite à l’adhésion de l’université aux grands projets de l’État s’inscrivant dans la vision stratégique 2015-2030 et dans la lignée de la nouvelle loi-cadre 51.17.
+            </p>
+            <p>Cette vision invite à la formation d’enseignants de qualité qui possédent des compétences professionnelles indispensables à leur employabilité et aux besoins du secteur de l’enseignement primaire et secondaire.
+            </p>
+            <p> Ecole Supérieure d’Education et de Formation Berrechid : ( ESEF Berrechid ), est un établissement relevant de l’Université Hassan 1er régi par décret N° 2.18.958 (BO N° 6789 du 24 juin 2019).
+            </p>
+            <p>La création de l’ESEFB concrétise la stratégie de proximité menée par l’université ainsi que son adhésion aux grands projets de l’État s’inscrivant dans la vision stratégique 2015-2030 et la nouvelle loi-cadre 51.17 par la formation d’enseignants de qualité acquérant des compétences professionnelles indispensables à leur employabilité aux besoins du secteur de l’enseignement primaire et secondaire.
+            </p>
+            <h3>Offre de formation</h3>
+            <p>L’ESEF Berrechid offre à ses étudiants des formations de licences en éducation et s’inscrit dans le cadre de la persification des formations dispensées au sein de l’Université Hassan 1er.
+            </p>
+            <p>                • Licence d’éducation : Spécialité Enseignement Primaire
+            </p>
+            <p>                • Licence d’éducation : Spécialité Enseignement Secondaire – Langue Française
+            </p>
+            <p>                • Spécialité enseignement secondaire sciences physiques et chimiques
+            </p>
+            <p>                •  Spécialité Enseignement Secondaire – Mathématiques * (sous réserve d’accréditation)
+            </p>
+        </section>
+
+
+
+    <section id="home">
+        <h2>Welcome to the Theater Club!</h2>
+        <p>Explore the world of drama and creativity with our passionate theater club. Join us for exciting events and performances.
+        </p> 
+        <center> <img src="C:\Users\ULTRAPC\OneDrive\Bureau\Sans titre.png" style="width:70%" style="width:100%"> </center>
+        <center><p>Aujourdhui, 28 fevrier 2024 marque la création de notre nouveau club CTE (Cinema and Theater Club)</p>
+        <p>C'est avec une immense joie que je me tiens devant vous aujourd'hui en tant que fondateur de notre tout nouveau Club de Cinéma et de Théâtre. Aujourd'hui marque le premier jour de notre aventure passionnante, dédiée à l'exploration de la magie du grand écran et de la scène.
+        </p>
+        <p>Ce club ne se limite pas seulement aux films et aux performances ; il s'agit de créer une communauté où notre amour partagé pour le cinéma et le théâtre peut s'épanouir. Nous avons pour objectif de fournir un espace propice à la créativité, aux discussions et à l'appréciation de la diversité du monde de la narration.
+        </p>
+        <p>Je vous invite tous à être des membres actifs de ce club. Partagez vos films préférés, recommandez des pièces incontournables, et plongeons ensemble dans la riche diversité des expériences cinématographiques et théâtrales.
+        </p>
+        <p>Faisons de ce club un lieu dynamique de créativité et de passion. Que vous soyez un cinéphile chevronné ou un amateur de théâtre faisant ses premiers pas, il y a une place pour vous ici.
+        </p>
+    </center>
+    </section>
+    <section id="What's a Cinema and theater Club and Why do we need it">
+        <h2>About Us</h2>
+        <h3>What's a Cinema and theater Club and Why do we need it</h3>
+        <p>We are a group of dedicated individuals who share a love for the performing arts. Our goal is to create memorable and impactful theatrical experiences for our audience.</p>
+        <p>Une université doive avoir un club de cinéma et de théâtre pour diverses raisons, notamment :</p>
+        <h4>Enrichissement culturel :</h4>
+        <p>Expériences diverses : Un club de cinéma et de théâtre peut offrir aux étudiants des expériences culturelles diverses grâce à des projections de films et des représentations théâtrales en direct.
+        </p>
+        <p>Exposition à différents genres : Les étudiants peuvent être exposés à divers genres de cinéma et de théâtre, favorisant ainsi une appréciation des différentes formes artistiques.
+        </p>
+        <h4>Opportunités éducatives :</h4>
+        <p>Études cinématographiques : Un club de cinéma peut offrir des opportunités d'études cinématographiques, de discussions et d'analyses, permettant aux étudiants d'explorer l'art de la réalisation et de la narration cinématographique.
+        </p>
+        <p>Arts du théâtre : Un club de théâtre peut offrir une plateforme aux étudiants pour participer à des performances théâtrales, apprendre le jeu d'acteur, la conception scénique et d'autres aspects des arts du théâtre.
+        </p>
+        <h4>Construction de communauté :</h4>
+        <p>Interaction sociale : Les événements cinématographiques et théâtraux peuvent servir de rencontres sociales, favorisant un sentiment de communauté parmi les étudiants partageant un intérêt pour ces formes d'art.
+        </p>
+        <p>Projets collaboratifs : Les clubs de théâtre impliquent souvent le travail d'équipe, permettant aux étudiants de collaborer sur des productions et de développer un esprit de camaraderie.
+        </p>
+        <h4>Expression créative :</h4>
+        <p>Productions étudiantes : Les clubs de cinéma et de théâtre offrent des opportunités aux étudiants de s'exprimer créativement en participant à des productions ou en créant leurs propres films ou pièces de théâtre.
+        </p>
+        <p>Développement artistique : Les étudiants intéressés par la réalisation, le jeu d'acteur, la mise en scène ou tout autre aspect des arts peuvent développer et présenter leurs talents.
+        </p>
+        <h4>Divertissement et détente :</h4>
+        <p>Loisirs : Les clubs de cinéma peuvent organiser des soirées cinéma comme forme de divertissement récréatif pour les étudiants.
+        </p>
+        <p>Performances en direct : Les clubs de théâtre peuvent présenter des performances en direct, offrant aux étudiants une pause par rapport au stress académique et fournissant un divertissement sur le campus.
+        </p>
+        <h4>Événements éducatifs :</h4>
+        <p>Conférenciers invités : Les clubs peuvent organiser des événements avec des conférenciers invités, des professionnels de l'industrie ou des experts du cinéma et du théâtre pour fournir des informations dans le domaine.
+        </p>
+        <p>Ateliers et séminaires : Des ateliers éducatifs peuvent être organisés pour améliorer les connaissances et les compétences des étudiants dans les domaines du cinéma et du théâtre.
+        </p>
+        <h4>Développement de carrière :</h4>
+        <p>Opportunités de réseautage : La participation aux clubs de cinéma et de théâtre peut offrir aux étudiants des opportunités de réseautage dans l'industrie du divertissement.
+        </p>
+        <p>Développement de compétences : La participation aux activités du club peut aider les étudiants à développer des compétences précieuses pour des carrières dans le cinéma, le théâtre et d'autres domaines connexes.
+        </p>
+        <h5>En résumé, un club de cinéma et de théâtre dans une université contribue au développement holistique des étudiants en offrant des opportunités culturelles, éducatives, sociales et récréatives, en favorisant la créativité et en soutenant des parcours professionnels potentiels dans les arts et l'industrie du divertissement.
+        </h5>
+    </section>
+   
+    <section id="events">
+        <h2>Upcoming Events</h2>
+        <div class="event">
+            <h3>Play: "Not Indetermined Yet"</h3>
+            <p>Date: X.X, 2024</p>
+            <p>Time: X</p>
+            <p>Location: Salle D'integration Ensa</p>
+        </div>
+        <div class="event">
+            <h3>Not Yet Indetermined</h3>
+            <p>Date: X X, 2024</p>
+            <p>Time: X</p>
+            <p>Location: Salle D'integration Ensa</p>
+        </div>
+    </section>
+    <section id="Inscription">
+        <center><h2>Contact Us</h2>
+        <h3>Fill This Form Please</h3>
+        <h4>Interested in Joining us? it'll only take 1 click</h4>
+        <html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSclwO6efSwv6-rUK9TO64ceDfzGf_dStJ3mziVVKORfkPXj9Q/viewform?usp=sf_link';">
+      Click Here - Cliquer Ici - اضغط هنا
+    </button>
+  </body>
+</html>
+        </center>
+        <p>                                    </p>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+</body>
+</html>
+
 
