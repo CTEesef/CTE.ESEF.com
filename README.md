@@ -137,7 +137,7 @@
 
 <header>
     <!-- Image element in the header -->
-    <img id="headerImage" src="C:\Users\ULTRAPC\Downloads\cropped-eseb-1.jpg" alt="Description of the photo">
+    <img id="headerImage" src="https://www-esef.uh1.ac.ma/wp-content/uploads/2021/05/cropped-eseb-1.jpg)" alt="Description of the photo>
     <h1>Theater and Cinema Club</h1>
 </header>
 
@@ -155,7 +155,7 @@
     </nav>
     <section id="About Our University">
         <h2>Welcome to ESEFB!</h2>
-        <center><img src="C:\Users\ULTRAPC\OneDrive\Bureau\image15.png" 
+        <center><img src="https://1.bp.blogspot.com/-y0Pcw7tjA6g/YOieu6iSr0I/AAAAAAAAGwo/AIRrN8PzhSgBRlGQCgA7A4N25azxpELrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D8%25A7%25D9%2584%25D9%2585%25D8%25AF%25D8%25B1%25D8%25B3%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25B9%25D9%2584%25D9%258A%25D8%25A7%2B%25D9%2584%25D9%2584%25D8%25AA%25D8%25B1%25D8%25A8%25D9%258A%25D8%25A9%2B%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D9%2583%25D9%2588%25D9%258A%25D9%2586%2B%25D8%25A8%25D8%25B1%25D8%25B4%25D9%258A%25D8%25AF.png" 
             style="width:70%"
          </center>
         <h3>à propos de l'ESEFB</h3>
