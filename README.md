@@ -155,8 +155,8 @@
     </nav>
     <section id="About Our University">
         <h2>Welcome to ESEFB!</h2>
-        <center><img src="https://1.bp.blogspot.com/-y0Pcw7tjA6g/YOieu6iSr0I/AAAAAAAAGwo/AIRrN8PzhSgBRlGQCgA7A4N25azxpELrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D8%25A7%25D9%2584%25D9%2585%25D8%25AF%25D8%25B1%25D8%25B3%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25B9%25D9%2584%25D9%258A%25D8%25A7%2B%25D9%2584%25D9%2584%25D8%25AA%25D8%25B1%25D8%25A8%25D9%258A%25D8%25A9%2B%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D9%2583%25D9%2588%25D9%258A%25D9%2586%2B%25D8%25A8%25D8%25B1%25D8%25B4%25D9%258A%25D8%25AF.png" 
-            style="width:70%"
+        <center><[img src="https://1.bp.blogspot.com/-y0Pcw7tjA6g/YOieu6iSr0I/AAAAAAAAGwo/AIRrN8PzhSgBRlGQCgA7A4N25azxpELrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D8%25A7%25D9%2584%25D9%2585%25D8%25AF%25D8%25B1%25D8%25B3%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25B9%25D9%2584%25D9%258A%25D8%25A7%2B%25D9%2584%25D9%2584%25D8%25AA%25D8%25B1%25D8%25A8%25D9%258A%25D8%25A9%2B%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D9%2583%25D9%2588%25D9%258A%25D9%2586%2B%25D8%25A8%25D8%25B1%25D8%25B4%25D9%258A%25D8%25AF.png" 
+            style="width:70%](https://ibb.co/PrNDsT6)"
          </center>
         <h3>à propos de l'ESEFB</h3>
         <p>Régie par décret N° 2.18.958 (BO N° 6789 du 24 juin 2019), l’Ecole Supérieure d’Education et de Formation de Berrechid (ESEFB) est un établissement qui relève de l’Université Hassan 1er. 
